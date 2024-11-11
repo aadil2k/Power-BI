@@ -64,4 +64,6 @@ In this phase, the following steps were taken:
 This dashboard allows users to explore sales and profit data interactively, track performance, and make data-driven decisions effectively.
 # Sample Screenshots
 ![image](https://github.com/user-attachments/assets/d6b1cc4c-0dac-4347-bb7d-c6abbe624e53)
+---
+![image](https://github.com/user-attachments/assets/32f1b891-edae-41e4-8e2e-40e2864e7151)
 
