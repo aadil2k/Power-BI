@@ -57,11 +57,11 @@ In this phase, the following steps were taken:
     -	Corporate segment has the highest sales.
     -	Small Business has lowest sales.
 # Filters (Slicers):
-  +	Created four slicers to allow users to interactively filter the data based on different fields such as date, product category, state, and customer segment.
-
+  +	Created four slicers to allow users to interactively filter the data based on different fields such as date, product         category, state, and customer segment.
 # Color Coding in Visuals:
   +	Dark blue was used to denote the highest values (e.g., highest sales, highest profit).
   +	Grey was used to denote the lowest values (e.g., lowest sales, lowest profit).
 This dashboard allows users to explore sales and profit data interactively, track performance, and make data-driven decisions effectively.
-
+# Sample Screenshots
+![image](https://github.com/user-attachments/assets/d6b1cc4c-0dac-4347-bb7d-c6abbe624e53)
 
