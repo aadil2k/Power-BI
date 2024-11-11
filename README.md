@@ -26,9 +26,9 @@ In this phase, the following steps were taken:
   +	Established a relationship between the orders table and the Date table using the date columns.
   +	Created a Measure table to store KPIs like Profit, Sales, and the percentage of returned orders. This helps to manage and maintain all the calculated measures in one         place.
 # Creating Visualizations:
-**``` 1. KPIs (Cards):**
+``` **1. KPIs (Cards):**
   +	Total Sales, Profit, and Percentage of Returned Orders were displayed using card visuals, providing a quick glance at the overall performance.
-**``` 2. Month-wise Sales Comparison (Line Chart):**
+``` **2. Month-wise Sales Comparison (Line Chart):**
   +	A line chart was created to compare month-wise sales, which revealed that:
     -	March 2015 had the lowest sales.
     -	April 2015 had the highest sales.
