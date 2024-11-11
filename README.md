@@ -63,7 +63,7 @@ In this phase, the following steps were taken:
   +	Grey was used to denote the lowest values (e.g., lowest sales, lowest profit).
 This dashboard allows users to explore sales and profit data interactively, track performance, and make data-driven decisions effectively.
 # Sample Screenshots
-![image](https://github.com/user-attachments/assets/d6b1cc4c-0dac-4347-bb7d-c6abbe624e53)
+![image](https://github.com/user-attachments/assets/47179fb3-4b17-42f4-bb3f-f9c390342d91)
 ---
 ![image](https://github.com/user-attachments/assets/32f1b891-edae-41e4-8e2e-40e2864e7151)
 
