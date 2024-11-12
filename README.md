@@ -26,36 +26,36 @@ In this phase, the following steps were taken:
 # Creating Visualizations:
 ### 1. KPIs (Cards):
   +	Total Sales, Profit, and Percentage of Returned Orders were displayed using card visuals, providing a quick glance at the overall performance.
-### 2. Month-wise Sales Comparison (Line Chart):**
+### 2. Month-wise Sales Comparison (Line Chart):
   +	A line chart was created to compare month-wise sales, which revealed that:
     -	March 2015 had the lowest sales.
     -	April 2015 had the highest sales.
-### 3. Profit by Product (Bar Chart):**
+### 3. Profit by Product (Bar Chart):
   +	A bar chart was used to show profit by product. The analysis indicated:
     -	Binders and Binder Accessories were the most profitable products across all states.
-### 4. Profit by Location (Map Chart):**
+### 4. Profit by Location (Map Chart):
   +	A map chart was created to show profits by state, revealing that:
     -	California had the highest profit.
     -	North Carolina had the lowest profit. 
-### 5. Sales by Customer Segment (Donut Chart):**
+### 5. Sales by Customer Segment (Donut Chart):
   +	A donut chart was used to analyse sales by customer segments, and it was found that:
     -	 The Small Business segment had the lowest sales. 
-### 6. Sales and Profit by Product Category (Clustered Column Chart):**
+### 6. Sales and Profit by Product Category (Clustered Column Chart):
   +	A Clustered Column Chart was used to analyse sales and profit by product category. It gives information about the highest- and lowest-generating product categories in        terms of sales and profit.
-### 7. Profit and Sales by Region (Clustered Column Chart):**
-  +	A Clustered Column Chart was used to analyse sales and profit by each region, and it gives the information about highest and lowers sales and profit generating regions.
-### 8. Sales by Product Sub-category (Teemap Chart):**
+### 7. Profit and Sales by Region (Clustered Column Chart):
+  +	A Clustered Column Chart was used to analyse sales and profit by each region, and it gives the information about highest and lowers sales and profit-generating regions.
+### 8. Sales by Product Sub-category (Teemap Chart):
   +	A Treemap Chart was created to show the sales by product sub-category. The analysis shows that:
     -	Office Machines has the highest sales.
     -	Rubber Band has the lowest sales.
-### 9. Profit by Customer Segment (Pie Chart):**
+### 9. Profit by Customer Segment (Pie Chart):
   +	A Pie Chart was created to show the Profit by Customer segment.
     -	Small Business has the highest profit.
     -	Consumer has the lowest profit.
-### 10. Profit by Customer Segment (Pie Chart):**
+### 10. Profit by Customer Segment (Pie Chart):
   +	A Pie Chart was created to show the Sales by Customer segment.
     -	Corporate segment has the highest sales.
-    -	Small Business has lowest sales.
+    -	Small Business has the lowest sales.
 # Filters (Slicers):
   +	Created four slicers to allow users to interactively filter the data based on different fields such as date, product         category, state, and customer segment.
 # Color Coding in Visuals:
